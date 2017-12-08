@@ -15,7 +15,7 @@
 - git add *
 
 
-** Tabla Compañeros:**
+**Tabla Compañeros:**
 
 | Nombre | GitHub |
 | ------ | ------ |
