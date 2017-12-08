@@ -1,7 +1,6 @@
 # masteruah
-Demo repository for learning purposes
 
-Comandos empleados:
+**Comandos empleados:**
 - git clone https://github.com/powerpic/masteruah.git Master_UAH
 - git status
 - git add README.md
@@ -16,4 +15,10 @@ Comandos empleados:
 - git add *
 
 
+** Tabla Compañeros:**
 
+| Nombre | GitHub |
+| ------ | ------ |
+| Jose Manuel | <https://github.com/jomarequena> |
+| Juan Pablo  | <https://github.com/jpinto7> |
+| Lourdes     | <https://github.com/LourdesRD> |
